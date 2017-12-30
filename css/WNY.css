@@ -110,7 +110,7 @@
 }
 
 body {
-  background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url("[![main_body.jpg](https://s9.postimg.org/4rct3hnkf/main_body.jpg)](https://postimg.org/image/txdrabouj/)");
+  background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url("<a href='https://postimg.org/image/txdrabouj/' target='_blank'><img src='https://s9.postimg.org/4rct3hnkf/main_body.jpg' border='0' alt='main_body'/></a>");
    background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
